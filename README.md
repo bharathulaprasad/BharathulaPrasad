@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Product Lifecycle management CAD/CAM fast deployment and testing techniques
-- 🌱 I’m currently learning ...Python, Ansible, Microservices, R programming
+- 🌱 I’m currently learning ...Python, Ansible, Microservices, R programming, TensorFlow2, Keras, Hadoop
 - 👯 I’m looking to collaborate on ...Teamcenter Fast deployments, Machine Learning, Neural Networks, Natural Language Processing
 - 🤔 I’m looking for help with ... Angular, React, Microservices, Ansible
-- 💬 Ask me about ...You find at my linkedin profile https://www.linkedin.com/in/bprasadvk/
+- 💬 Ask me about ...You find at my linkedin profile **using my LinkedIN below**
 - 📫 How to reach me: ...You can send a simple email to krishnaprasad.bharathula@web.de, and I will get back to you soon!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... It's fun to meet you.
