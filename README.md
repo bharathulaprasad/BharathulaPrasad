@@ -2,8 +2,9 @@
 
 <!--
 **bharathulaprasad/BharathulaPrasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
+-->
+
 
 - 🔭 I’m currently working on ...Product Lifecycle management CAD/CAM fast deployment and testing techniques
 - 🌱 I’m currently learning ...Python, Ansible, Microservices, R programming, TensorFlow2, Keras, Hadoop
