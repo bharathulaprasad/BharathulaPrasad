@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...Python, Ansible, Microservices, R programming
 - 👯 I’m looking to collaborate on ...Teamcenter Fast deployments, Machine Learning, Neural Networks, Natural Language Processing
 - 🤔 I’m looking for help with ... Angular, React, Microservices, Ansible
-- 💬 Ask me about ...you find at my linkedin profile https://www.linkedin.com/in/bprasadvk/
-- 📫 How to reach me: ...krishnaprasad.bharathula@web.de
+- 💬 Ask me about ...You find at my linkedin profile https://www.linkedin.com/in/bprasadvk/
+- 📫 How to reach me: ...You can send a simple email to krishnaprasad.bharathula@web.de, and I will get back to you soon!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... It's fun to meet you.
 
