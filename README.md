@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... It's fun to meet you.
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<!-- Links to your social media accounts -->
+[1]: https://twitter.com/bprasadvk
+[2]: https://www.linkedin.com/in/bprasadvk/
+
 
 ## &#x1f4c8; GitHub Stats
 
