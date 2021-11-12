@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...You find at my linkedin profile **using my LinkedIN below**
 - 📫 How to reach me: ...You can send a simple email to krishnaprasad.bharathula@web.de, and I will get back to you soon!
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... It's fun to meet you.
+- ⚡ Fun fact: ... I love my Family and Friends.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
