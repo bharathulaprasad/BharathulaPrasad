@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Product Lifecycle management CAD/CAM fast deployment and testing techniques
 - 🌱 I’m currently learning ...Python, Ansible, Microservices, R programming, TensorFlow2, Keras, Hadoop, React, Vue and Angular Full stack server and client.
 - 👯 I’m looking to collaborate on ...Teamcenter Fast deployments, Machine Learning, Neural Networks, Natural Language Processing, React with GraphQL, and Rest endpoint development
-- 🤔 I’m looking for help with ... Angular, React, Microservices, Ansible, TFOD
+- 🤔 I’m looking for help with ... Angular, React, Microservices, Ansible, TFOD, may be some routing frameworks like Next.js
 - 💬 Ask me about ...You find at my linkedin profile **using my LinkedIN below**
 - 📫 How to reach me: ...You can send a simple email to krishnaprasad.bharathula@web.de, and I will get back to you soon!
 - 😄 Pronouns: ...
